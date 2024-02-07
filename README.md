@@ -1,9 +1,3 @@
----
-runme:
-  id: 01HP24PBFTDS9NPWBKXZ7R4H9Q
-  version: v2.2
----
-
 # Lending Club Case Study
 
 ## Table of Contents
